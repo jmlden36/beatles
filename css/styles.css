@@ -1,9 +1,12 @@
 .sidebar {
   width: 30%;
+  padding: 4px;
+  margin: 10px;
   float: right;
   background-color: yellowgreen;
 }
 
 img {
   float: left;
+  padding: 12px;
 }
